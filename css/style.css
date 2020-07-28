@@ -166,7 +166,7 @@ span {
 
 .search__btn {
   position: relative;
-  top: -1px;
+  top: 0px;
   left: -124px;
   padding: 16.6px 73.9px;
   background: #2196f3;
@@ -369,7 +369,7 @@ a {
 
 .hr__1 {
   width: 215px;
-  height: 2px;
+  height: 1.5px;
   background-color: #2196f3;
   border: none;
   margin: 18px 0;
@@ -378,7 +378,7 @@ a {
 
 .hr__2 {
   width: 136px;
-  height: 2px;
+  height: 1.5px;
   background-color: #2196f3;
   border: none;
   margin: 18px 0;
